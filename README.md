@@ -18,6 +18,7 @@ Conteúdo:
 
 Obs: Eu sei, a mistura de código C e C++ me ajudou a criar uma bagunça na hora de converter Strings em char*, mas o intuito
 era não ficar preso ao C como a maioira dos códigos que encontramos largados pela internet.
+
 Obs2: O código não está completo, falta tratar os redirecionamentos de entrada e saída que usam os sinals de > e < e execução
 de códigos em background.
 
